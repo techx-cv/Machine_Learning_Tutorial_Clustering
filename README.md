@@ -14,4 +14,4 @@ This is the tutorial for the clustering in the machine learning, which could hel
 Please follow the preview material and go through all the codes in detal.
 
 - Quick Link to Notebook
-- Quick Link to INstruction
+- Quick Link to Instruction
