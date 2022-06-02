@@ -13,5 +13,5 @@ This is the tutorial for the clustering in the machine learning, which could hel
 ## Tutorial Materials
 Please follow the preview material and go through all the codes in detal.
 
-- Quick Link to Notebook
-- Quick Link to Instruction
+- Quick Link to [Notebook](https://github.com/techx-cv/Machine_Learning_Tutorial_Clustering/blob/main/NoteBook/Clustering.ipynb)
+- Quick Link to [Instruction](https://github.com/techx-cv/Machine_Learning_Tutorial_Clustering/blob/main/Instruction/instruction.pdf)
